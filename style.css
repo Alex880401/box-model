@@ -38,3 +38,17 @@ h1 {
     width:50%;
     padding: 0 20px 0;
 }
+
+#section-1 {
+    background-color: rgb(236, 233, 233);
+}
+
+#h-section-1 {
+    margin: 0;
+    padding: 40px 0 20px;
+}
+
+#p-section-1 {
+    margin: 0;
+    padding: 20px 0 40px;
+}
