@@ -59,14 +59,14 @@ h1 {
 
 .section-2-block {
     display: inline-block;
-    width: 300px;
+    width: calc(48% / 3);
     margin: 10px;
     border: 1px solid black;
     background-color: white;
 }
 
 .img-block {
-    width: 300px;
+    width: 100%;
 }
 
 .h-section-2 {
