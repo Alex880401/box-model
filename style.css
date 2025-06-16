@@ -79,3 +79,29 @@ h1 {
     padding: 10px 20px 20px;
 }
 
+#section-4 {
+    width: 100%;
+    /* border: 1px solid black; */
+    color: white;
+    font-size: 0;
+}
+
+#section-4-l {
+    background-color: rgb(41, 126, 206);
+    display: inline-block;
+    box-sizing: border-box;
+    width: 50%;
+    height: inherit;
+    padding: 0 20px 0;
+    font-size: 16px;
+}
+
+#section-4-r {
+    background-color:rgb(48, 46, 46);
+    display: inline-block;
+    box-sizing: border-box;
+    width: 50%;
+    height: inherit;
+    padding: 0 20px 0;
+    font-size: 16px;
+}
