@@ -4,7 +4,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#header {
+.header {
     width: 100%;
     background-image: url('/assets/header.png');
     background-color: blueviolet;
@@ -18,12 +18,12 @@ h1 {
     padding: 90px 0 0;
 }
 
-#p-header {
+.p-header {
     margin: 0;
     padding: 50px 0;
 }
 
-#btn {
+.btn {
     display: inline-block;
     border: 2px solid white;
     padding: 20px 30px;
@@ -32,12 +32,6 @@ h1 {
     text-decoration: none;
     color: inherit;
 }
-
-/*.content-wrap {
-    display: inline-block;
-    width:50%;
-    padding: 0 20px 0;
-} */
 
 .content-wrap {
     display: inline-block;
@@ -48,7 +42,7 @@ h1 {
     min-width: 320px;
 }
 
-#section-1 {
+.section-1 {
     background-color: rgb(236, 233, 233);
 }
 
@@ -90,13 +84,13 @@ h1 {
     padding: 10px 20px 20px;
 }
 
-#section-4 {
+.section-4 {
     width: 100%;
     color: white;
     font-size: 0;
 }
 
-#section-4-l {
+.section-4-l {
     background-color: rgb(41, 126, 206);
     display: inline-block;
     box-sizing: border-box;
@@ -106,7 +100,7 @@ h1 {
     font-size: 16px;
 }
 
-#section-4-r {
+.section-4-r {
     background-color:rgb(48, 46, 46);
     display: inline-block;
     box-sizing: border-box;
@@ -131,7 +125,7 @@ footer {
     font-size: 16px;
 }
 
-#link {
+.link {
     text-decoration: none;
 }
 
