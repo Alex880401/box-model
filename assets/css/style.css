@@ -5,9 +5,9 @@ body {
 }
 
 #header {
-    display: inline-block;
     width: 100%;
     background-image: url('/assets/header.png');
+    background-color: blueviolet;
     background-size: cover; 
     color: white;
     font-size: 1.2em;
