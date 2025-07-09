@@ -1,5 +1,8 @@
-html {
+*{
     margin: 0;
+}
+
+html {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
@@ -15,12 +18,10 @@ html {
 }
 
 h1 {
-    margin: 0;
-    padding: 90px 0 0;
+    padding: 70px 0 0;
 }
 
 .p-header {
-    margin: 0;
     padding: 50px 0;
 }
 
@@ -28,14 +29,14 @@ h1 {
     display: inline-block;
     border: 2px solid white;
     padding: 20px 30px;
-    margin-bottom: 90px;
+    margin-bottom: 70px;
     text-decoration: none;
     color: inherit;
 }
 
 .content-wrap {
     box-sizing: border-box;
-    padding: 0 20px 0;
+    padding: 20px;
     margin: 0 auto;
     max-width: 980px;
     min-width: 320px;
@@ -45,14 +46,8 @@ h1 {
     background-color: rgb(236, 233, 233);
 }
 
-.h-section {
-    margin: 0;
-    padding: 40px 0 20px;
-}
-
-.p-section {
-    margin: 0;
-    padding: 20px 0 40px;
+.h-section, .p-section {
+    padding: 20px 0;
 }
 
 #section-2 {
@@ -74,12 +69,10 @@ h1 {
 }
 
 .h-section-2 {
-    margin: 0;
     padding: 15px 20px 5px;
 }
 
 .p-section-2 {
-    margin: 0;
     padding: 10px 20px 20px;
 }
 
@@ -95,7 +88,7 @@ h1 {
     box-sizing: border-box;
     width: 50%;
     height: inherit;
-    padding: 0 20px 0;
+    padding: 20px;
     font-size: 1rem;
 }
 
