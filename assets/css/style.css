@@ -7,7 +7,7 @@ html {
 
 .header {
     width: 100%;
-    background-image: url('/assets/header.jpg');
+    background-image: url('./../images/header.jpg');
     background-color: blueviolet;
     background-size: cover; 
     color: white;
