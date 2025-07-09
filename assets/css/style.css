@@ -109,7 +109,7 @@ footer {
     font-size: 0;
 }
 
-footer > div {
+.footer-item {
     background-color:black;
     display: inline-block;
     box-sizing: border-box;
