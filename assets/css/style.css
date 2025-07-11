@@ -13,6 +13,7 @@ html {
     background-image: url('./../images/header.jpg');
     background-color: blueviolet;
     background-size: cover; 
+    background-position: center;
     color: white;
     font-size: 1.2rem;
 }
@@ -50,7 +51,7 @@ h1 {
     padding: 20px 0;
 }
 
-#section-2 {
+.section-2 {
    background-color: rgb(48, 46, 46);
    padding: 10px 0;
 }
